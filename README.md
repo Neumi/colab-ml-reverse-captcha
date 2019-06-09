@@ -30,7 +30,7 @@ Please Ebay, Postbank and all the other large companys with security systems onl
 
 
 ## Try it yourself:
-Run the jupyter notebook in a free [Google colab](https://colab.research.google.com) instance with GPU support to test it!
+Run the [jupyter notebook](https://colab.research.google.com/github/Neumi/colab-ml-reverse-captcha/blob/master/captch_ml_solver_all_chars.ipynb) in a free [Google colab](https://colab.research.google.com) instance with GPU support to test it!
 
 This is an example of a captcha it can solve:
 ![Image of Captcha](https://raw.githubusercontent.com/Neumi/colab-ml-reverse-captcha/master/222656830282970083.png)
